@@ -47,12 +47,24 @@ Es importante destacar que **este proyecto parte del repositorio de base proporc
 #### 1. Autenticación y Manejo de Errores
 ![Error de credenciales](img/errorsesion.png)
 ![Registro exitoso](img/registro.png)
+![Inicio de sesión](img/login.png)
+
 
 #### 2. Operaciones CRUD
 ![Lista de inventario (GET)](img/read.png)
 ![Agregar producto (POST)](img/create.png)
 ![Editar producto (PUT)](img/update.png)
 ![Eliminar producto (DELETE)](img/delete.png)
+
+
+#### 3. Interfaz
+![Pantalla inicial](img/ingreso.png)
+![Cerrar sesión](img/logout.png)
+
+#### 3. QA
+![Docker](img/docker.png)
+![Peticiones HTTP](img/peticiones.png)
+
 
 ## Conclusiones
 Durante el desarrollo de esta práctica, se presentaron diversos retos técnicos que ayudaron me ayudaron a entender un poco mas la virtualización y consumo de servicios web. 
