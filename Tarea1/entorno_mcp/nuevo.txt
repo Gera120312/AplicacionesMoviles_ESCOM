@@ -1,0 +1,3 @@
+Este archivo fue creado mediante una operación MCP.
+Contenido de prueba para la práctica.
+Esta línea fue agregada al modificar el archivo existente.

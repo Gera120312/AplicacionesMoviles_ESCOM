@@ -1,0 +1,15 @@
+{
+	"mcpServers": {
+		"filesystem": {
+			"command": "npx.cmd",
+			"args": [
+				"-y",
+				"@modelcontextprotocol/server-filesystem",
+				"C:/Users/gerar/Downloads/Repositorios/AplicacionesMoviles_ESCOM/Tarea1/entorno_mcp"
+			],
+			"disabled": false,
+			"alwaysAllow": [],
+			"disabledTools": []
+		}
+	}
+}
