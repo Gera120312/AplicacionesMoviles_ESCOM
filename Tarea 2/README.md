@@ -93,7 +93,7 @@ La tabla distingue controles implementados de equivalencias visuales. En particu
 Las capturas corresponden a las seis secciones de cada implementación ejecutada en el emulador.
 
 ### Android Views/XML
-
+ 
 | Entrada | Acciones | Selección |
 | --- | --- | --- |
 | ![Views/XML: Entrada](docs/Screenshot_20260926_014240.png) | ![Views/XML: Acciones](docs/Screenshot_20260926_014255.png) | ![Views/XML: Selección](docs/Screenshot_20260926_014306.png) |
