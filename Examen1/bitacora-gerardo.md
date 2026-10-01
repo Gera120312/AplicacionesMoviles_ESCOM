@@ -4,7 +4,8 @@
 
 - Repositorio del fork: `https://github.com/Gera120312/PolitecnicoOpenWorld`
 - Repositorio destino del PR: `https://github.com/gabrielhuav/PolitecnicoOpenWorld`
-- Issue: Pendiente de crear en el fork
+- Issue: [#1](https://github.com/Gera120312/PolitecnicoOpenWorld/issues/1) — cerrada
+- Draft PR: [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) — abierto
 - Rama: `fix/story-attack-button-label`
 - SHA base: `7ed325393f82872c2be94ff2ada46948efa19152`
 - SHA final probado: `812a945a39f0317813ae05bd15ad47447d2acd90`
@@ -20,7 +21,7 @@
 | 2026-09-30 | Implementación de la corrección | Commit `812a945a39f0317813ae05bd15ad47447d2acd90` | Completado |
 | 2026-09-30 | Build, pruebas unitarias, host tests, nombres KMP y detekt | SHA `812a945a39f0317813ae05bd15ad47447d2acd90` | Aprobado |
 | 2026-09-30 | Pruebas manuales QA-01, QA-03 y QA-04 | [Matriz QA](docs/pruebas.md) | B, combate, navegación y conservación de estado confirmados manualmente |
-| Pendiente | Crear issue, publicar la rama y abrir Draft PR | Pendiente | Pendiente |
+| 2026-09-30 | Creación de issue, publicación de rama y apertura de Draft PR | [Issue #1](https://github.com/Gera120312/PolitecnicoOpenWorld/issues/1) · [PR #161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) | Completado; PR abierto como Draft |
 | Pendiente | Revisión de otro integrante y respuesta a comentarios | Pendiente | Pendiente |
 
 ## Contribución sustantiva
