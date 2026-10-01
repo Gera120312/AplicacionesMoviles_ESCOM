@@ -36,7 +36,7 @@
 | Issue del fork | [#1](https://github.com/Gera120312/PolitecnicoOpenWorld/issues/1) — cerrada |
 | Rama de trabajo | `fix/story-attack-button-label` |
 | SHA base | `7ed325393f82872c2be94ff2ada46948efa19152` |
-| Draft PR hacia `gabrielhuav/PolitecnicoOpenWorld` | [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) — abierto como Draft |
+| Draft PR hacia `gabrielhuav/PolitecnicoOpenWorld` | [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) — abierto; listo para revisión |
 | SHA final | `812a945a39f0317813ae05bd15ad47447d2acd90` |
 
 ## Evidencia y QA
@@ -59,14 +59,16 @@
 
 ## Revisión y conclusión
 
-- Revisor: Pendiente de asignar.
-- Comentario técnico de revisión: Pendiente de revisión de otro integrante.
-- Respuestas a comentarios: Pendiente de la revisión del PR [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161).
+- Revisor: Esaul Téllez ([@EsaulTellez](https://github.com/EsaulTellez)).
+- Comentario técnico de revisión: [Revisión QA del PR #161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161#issuecomment-5925105944).
+- Entorno del revisor: Google Pixel 9 Pro XL físico, Android 17/API 36.
+- Respuesta al comentario: Aceptada la recomendación como mejora futura; no requiere cambios en este alcance.
 - Dictamen de calidad: Los checks automáticos pasan y las capturas confirman el cambio
   visual en español e inglés. QA-01, QA-03 y QA-04 también fueron confirmados manualmente,
   aunque el video no muestra de forma explícita cada pulsación o transición. QA-02 y QA-05
-  permanecen parciales; todavía falta la revisión de otro integrante. El PR [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161)
-  permanece abierto como Draft y GitHub lo reporta bloqueado mientras no termine la revisión/checks.
+  permanecen parciales; todavía falta completar TalkBack y el ciclo completo de Y si se requiere
+  evidencia adicional. El PR [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161)
+  ya cuenta con revisión aprobatoria y puede marcarse como Ready for review.
 
 ## Herramientas de IA
 
@@ -82,5 +84,5 @@ la contribución deben poder ser defendidas por el estudiante.
 4. Implementar y documentar. **Completado.**
 5. Ejecutar build, pruebas, comprobación KMP y detekt. **Completado.**
 6. Publicar la rama y abrir el Draft PR hacia el repositorio original. **Completado: [PR #161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161).**
-7. Solicitar revisión, responder comentarios y repetir los casos afectados. **Pendiente.**
-8. Completar esta documentación y entregar su enlace en Classroom. **Documentación actualizada; pendiente revisión final.**
+7. Solicitar revisión, responder comentarios y repetir los casos afectados. **Completado: revisión aprobatoria de Esaul y respuesta preparada.**
+8. Completar esta documentación y entregar su enlace en Classroom. **Documentación actualizada; pendiente marcar el PR como Ready for review y entregar el enlace.**

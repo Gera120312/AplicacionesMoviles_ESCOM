@@ -5,7 +5,7 @@
 - Repositorio del fork: `https://github.com/Gera120312/PolitecnicoOpenWorld`
 - Repositorio destino del PR: `https://github.com/gabrielhuav/PolitecnicoOpenWorld`
 - Issue: [#1](https://github.com/Gera120312/PolitecnicoOpenWorld/issues/1) — cerrada
-- Draft PR: [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) — abierto
+- Draft PR: [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) — abierto, listo para revisión
 - Rama: `fix/story-attack-button-label`
 - SHA base: `7ed325393f82872c2be94ff2ada46948efa19152`
 - SHA final probado: `812a945a39f0317813ae05bd15ad47447d2acd90`
@@ -22,7 +22,7 @@
 | 2026-09-30 | Build, pruebas unitarias, host tests, nombres KMP y detekt | SHA `812a945a39f0317813ae05bd15ad47447d2acd90` | Aprobado |
 | 2026-09-30 | Pruebas manuales QA-01, QA-03 y QA-04 | [Matriz QA](docs/pruebas.md) | B, combate, navegación y conservación de estado confirmados manualmente |
 | 2026-09-30 | Creación de issue, publicación de rama y apertura de Draft PR | [Issue #1](https://github.com/Gera120312/PolitecnicoOpenWorld/issues/1) · [PR #161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) | Completado; PR abierto como Draft |
-| Pendiente | Revisión de otro integrante y respuesta a comentarios | Pendiente | Pendiente |
+| 2026-10-01 | Revisión cruzada del PR por Esaul Téllez | [Revisión QA del PR #161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161#issuecomment-5925105944) | Aprobado para merge; sin problemas bloqueantes |
 
 ## Contribución sustantiva
 
@@ -33,7 +33,8 @@
 - Commit: `812a945a39f0317813ae05bd15ad47447d2acd90` —
   `fix: clarify story attack control`.
 - Casos ejecutados: QA-01, QA-03 y QA-04 aprobados manualmente; QA-02 y QA-05 parciales; QA-06 aprobado visualmente.
-- Revisión realizada a otro integrante: Pendiente de realizar.
+- Revisión realizada a otro integrante: PR [#143](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/143), validado sobre el commit `ab0f016ec08d4080002e66af2dce8a83dc91105f`.
+- Revisión recibida: Esaul Téllez aprobó el PR [#161](https://github.com/gabrielhuav/PolitecnicoOpenWorld/pull/161) en un Pixel 9 Pro XL físico (Android 17/API 36).
 
 ## Evidencia manual
 
@@ -48,6 +49,16 @@ Las evidencias visuales confirman el cambio de `MODO: GOLPE (mantén Y)` a
 La pulsación de B, el recorrido de combate, Atrás y la conservación del estado se confirmaron
 manualmente. El video y las capturas no hacen visible de forma explícita cada pulsación o
 transición, por lo que esa limitación queda registrada en la matriz. TalkBack no fue demostrado.
+
+## Revisión cruzada
+
+- **Revisor:** Esaul Téllez.
+- **SHA evaluado:** `812a945a39f0317813ae05bd15ad47447d2acd90`.
+- **Dispositivo:** Google Pixel 9 Pro XL físico, Android 17/API 36.
+- **Resultado:** Aprobado para merge.
+- **Observación:** Se recomendó documentar también el uso de Y para abrir el menú combinado.
+- **Respuesta:** La recomendación se acepta como mejora futura de UX; queda fuera del alcance de
+  esta corrección textual y no requiere cambios adicionales en el PR.
 
 ## Hallazgos
 
