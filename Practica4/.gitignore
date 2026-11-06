@@ -1,0 +1,36 @@
+# Flutter/Dart generated files
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+coverage/
+
+# IDE and local configuration
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Local test and operating-system artifacts
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Signing material and private credentials
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+*.pem
+*.key
+key.properties
+credentials.json
+
+# Generated evidence; keep the directory instructions versioned
+evidencias/**/*.png
+evidencias/**/*.jpg
+evidencias/**/*.jpeg
+evidencias/**/*.heic
